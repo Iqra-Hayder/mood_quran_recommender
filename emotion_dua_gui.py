@@ -2,7 +2,7 @@ import streamlit as st
 import json
 
 # Load your data
-with open("emotions_dua.json.ini", "r", encoding="utf-8") as f:
+with open("emotions_dua.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Extract unique emotions
