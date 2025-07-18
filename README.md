@@ -22,9 +22,9 @@ This project is a simple and aesthetic web application built with **Streamlit** 
 mood\_quran\_recommender/
 │
 ├── data/
-│   └── emotions\_duas.json       # Duas linked to different emotions
+│   └── emotions\_dua.json       # Duas linked to different emotions
 │
-├── emotion\_dua\_app.py           # Streamlit GUI app
+├── emotion\_dua\_gui.py           # Streamlit GUI app
 │
 └── README.md                    # Project description
 
