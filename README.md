@@ -94,7 +94,7 @@ Have more Duas or better suggestions? Feel free to contribute by opening an issu
 
 ## 🛡 License
 
-This project is under the MIT License. Feel free to use, modify, and share.
+This project is under the **MIT License**. Feel free to use, modify, and share.
 
 ---
 
