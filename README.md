@@ -102,6 +102,3 @@ This project is under the MIT License. Feel free to use, modify, and share.
 
 May this app serve as a source of peace, connection, and reflection 🌙
 ```
-
----
-
