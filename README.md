@@ -52,7 +52,7 @@ pip install streamlit
 3. Run the Streamlit app:
 ```
 
-streamlit run emotion\_dua\_app.py
+streamlit run emotion\_dua\_gui.py
 
 ```
 
