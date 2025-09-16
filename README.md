@@ -98,7 +98,7 @@ This project is under the **MIT License**. Feel free to use, modify, and share.
 
 ---
 
-## 🙏 Final Note
+## 🕊 Final Note
 
 May this app serve as a source of peace, connection, and reflection 🌙
 ```
